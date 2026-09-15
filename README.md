@@ -67,8 +67,8 @@ Used the IQR method to identify unusual yield observations and investigated thei
 - Punjab recorded the highest average profit among the analyzed states.
 - Warangal recorded the highest average profit among the analyzed districts.
 - Zaid showed comparatively weaker economic performance.
-- ANOVA did not show statistically significant differences in average production or yield across seasons at the 5% significance level.
-
+- One-way ANOVA indicated that the differences in average production and yield across seasons were not statistically significant at the 5% significance level.
+  
 ## 📈 Future Scope
 
 - Machine-learning-based crop yield prediction.
